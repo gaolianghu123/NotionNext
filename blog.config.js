@@ -69,9 +69,4 @@ const BLOG = {
   UUID_REDIRECT: process.env.UUID_REDIRECT || false
 }
 
-// module.exports = BLOG
-module.exports = {
-  THEME: ['heo', 'hexo', 'next'], // 支持的主题列表
-  DEFAULT_THEME: 'heo', // 默认主题
-  // 其他配置...
-};
+module.exports = BLOG
