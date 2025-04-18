@@ -53,7 +53,7 @@ const CONFIG = {
   HEO_INFO_CARD_ICON1: 'fas fa-user',
   HEO_INFO_CARD_URL2: 'https://www.youtube.com/@Vc%E5%B7%A5%E5%85%B7%E7%AE%B1',
   HEO_INFO_CARD_ICON2: 'fab fa-youtube',
-  HEO_INFO_CARD_URL3: 'vvocc.com',
+  HEO_INFO_CARD_URL3: 'https://vvocc.com',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
