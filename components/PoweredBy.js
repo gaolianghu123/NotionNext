@@ -9,9 +9,9 @@ export default function PoweredBy(props) {
     <div className={`inline text-sm font-serif ${props.className || ''}`}>
       <span className='mr-1'>Powered by</span>
       <a
-        href='https://github.com/tangly1024/NotionNext'
+        href='https://www.youtube.com/@Vc%E5%B7%A5%E5%85%B7%E7%AE%B1'
         className='underline justify-start'>
-        NotionNext {siteConfig('VERSION')}
+        Vc {siteConfig('2025')}
       </a>
       .
     </div>
