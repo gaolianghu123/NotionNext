@@ -51,11 +51,11 @@ module.exports = {
         'https://p1.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     },
     {
-      "name": "青花瓷",
-      "artist": "周杰伦",
-      "url": "https://npm.elemecdn.com/anzhiyu-music@1.0.4/青花瓷/青花瓷.mp3",
-      "cover": "https://y.qq.com/music/photo_new/T002R300x300M000002eFUFm2XYZ7z_2.jpg?max_age=2592000",
-      "lrc": "https://npm.elemecdn.com/anzhiyu-music@1.0.4/青花瓷/青花瓷.lrc"
+      "name": "The Nights",
+      "artist": "A神Avicii",
+      "url": "https://cdn.136401.xyz/gaolianghu123/live2d/blob/master/A%E7%A5%9EAvicii%E3%80%8AThe%20Nights%E3%80%8B%E7%BA%AA%E5%BF%B5%E4%B8%87%E4%BA%BA%E5%A4%A7%E5%90%88%E5%94%B1%E7%8E%B0%E5%9C%BA%EF%BC%81.mp3",
+      "cover": "",
+      "lrc": ""
     },
     {
       "name": "稻香",
